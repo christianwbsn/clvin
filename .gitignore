@@ -1,3 +1,4 @@
 /gosample
 vendor
 Gopkg.lock
+/files/etc/config/hello.development.ini
